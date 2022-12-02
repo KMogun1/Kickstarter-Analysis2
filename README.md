@@ -1,1 +1,1 @@
-# Kickstarter-Analysis2
+# An Analysis of Kickstarter Campaigns
