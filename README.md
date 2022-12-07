@@ -11,6 +11,10 @@ The purpose of this project is to compare the play ‘Fever’ in relation to ot
 ## Analysis and Challenges
 To help perform this analysis, the date set was cleaned up by converting UNIX data stamp information to a more readable date format using the formula =(((J4110/60)/60)/24) +DATE (1970,1,1). We isolated the year using the excel formula “=Year ()” and with the new manageable date format, we were able to determine success rates based on the identified categories in the data set. We determined that there were 1,369 project lunch in the Theater category which is the same category as Louise’s play.
 
+![](Outcomes_vs_Goals.png)
+
+![](Theater_Outcome_vs_Launch.png)
+
 ## Results
 
 ### Analysis of Outcomes Based on Launch Date:
