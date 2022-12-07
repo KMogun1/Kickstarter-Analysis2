@@ -1,6 +1,5 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
-
 # Kickstarter Challenge – Written Analysis
 
 ## Overview of Project
@@ -8,13 +7,12 @@ Performing analysis on Kickstarter data to uncover trends
 ### Purpose:
 The purpose of this project is to compare the play ‘Fever’ in relation to other works in different categories using a data set of over 4000 works. Louise’s play ‘Fever’ had a goal of $2,885.00 but was only 86% funded at $2,485.00. She wants to know other campaign performance compared to hers based on their launch dates and funding goals. We will perform these analyses to see how others stack up against hers.   
 
+![](Table.png)
+
 ## Analysis and Challenges
 To help perform this analysis, the date set was cleaned up by converting UNIX data stamp information to a more readable date format using the formula =(((J4110/60)/60)/24) +DATE (1970,1,1). We isolated the year using the excel formula “=Year ()” and with the new manageable date format, we were able to determine success rates based on the identified categories in the data set. We determined that there were 1,369 project lunch in the Theater category which is the same category as Louise’s play.
 
-![](Table.png)
-
 ## Results
-
 ### Analysis of Outcomes Based on Launch Date:
 
 ***-What two conclusions can you draw-***
